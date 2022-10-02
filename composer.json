@@ -9,7 +9,7 @@
         "illuminate/http": "^7.14.1|^8.0|^9.0",
         "illuminate/console": "^7.14.1|^8.0|^9.0",
         "illuminate/support": "^7.14.1|^8.0|^9.0",
-        "detygon/php": "^1.2.0"
+        "detygon/php": "dev-main"
     },
     "authors": [
         {
