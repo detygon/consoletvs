@@ -1,5 +1,5 @@
 {
-    "name": "consoletvs/charts",
+    "name": "detygon/charts",
     "description": "The missing charting library on laravel, powered by Chartisan",
     "license": "MIT",
     "type": "library",
